@@ -13,13 +13,17 @@ Energy efficiency is crucial for industrial facilities to manage operating costs
 
 The Industrial Power Monitoring System is designed to provide comprehensive monitoringand analysis of power parameters in industrial settings. The system comprises several keycomponents: voltage and current sensors, power measuring IC, microcontroller, and a cloud-based data management and visualization interface.
 
-![Architecture](Assets/Block_d.png)
+![image](https://github.com/user-attachments/assets/d954f8dd-04aa-4c33-aa5b-f904e3cc1555)
+
+
 
 ### PCB and Enclosure
+![image](https://github.com/user-attachments/assets/a7b15e8e-c970-4779-a250-c2574dc17ec7)
 
-![PCB](Assets/3Dview.png)
-![Architecture](Assets/e1.jpg)
-![PCB](Assets/full.png)
+![image](https://github.com/user-attachments/assets/0a1b5147-9386-42ca-9d49-0cabd018f301)
+
+![image](https://github.com/user-attachments/assets/32769d79-a746-4a16-8bdb-4530197b30bf)
+
 
 Throughout the design process of the Industrial Power Monitoring System, we focused on cre-ating a reliable and efficient solution tailored for industrial applications. Key outcomes includethe successful integration of sensors, data processing capabilities, and robust communicationchannels for real-time data transmission and analysis. Our modular approach ensures scalabil-ity and adaptability to diverse industrial environments, facilitating seamless deployment andoperation.Looking ahead, potential enhancements could further refine the system’s performance andcapabilities. Future improvements may include enhancing sensor accuracy, expanding dataanalytics capabilities for deeper insights, and integrating predictive maintenance features tooptimize operational efficiency. Continuous iteration based on user feedback and technologi-cal advancements will be crucial to staying at the forefront of industrial energy managementsolutions.
 
