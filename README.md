@@ -1,6 +1,7 @@
 # Hedwig- IoT Power Monitoring System
 
-![Final Product](Assets/view.jpeg)
+![Uploading image.png…]()
+
 ## Project Overview
 
 ### Project Idea
